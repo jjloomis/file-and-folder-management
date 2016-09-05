@@ -2,7 +2,7 @@
 
 Servers and multimedia programs can run into problems when file and folder names contain special characters (@, ?, ", /, #, &, etc.)
 
-To avoid these problems, stick to the following characters when naming files and folders:
+To avoid these problems, only use the following characters when naming files and folders:
 
 * Lowercase letters (a-z)
 * Numbers
