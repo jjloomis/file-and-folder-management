@@ -10,7 +10,7 @@ To avoid these problems, only use the following characters when naming files and
 
 ## Example file name
 
-`this-is-a-file.WAV`
+`this-is-a-file.wav`
 
 ## Example folder name
 
