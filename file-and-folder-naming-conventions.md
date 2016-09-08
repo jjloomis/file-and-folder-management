@@ -1,6 +1,6 @@
 # File and Folder naming conventions
 
-Servers and multimedia programs can run into problems when file and folder names contain special characters (@, ?, ", /, #, &, etc.)
+Occasionally, servers and multimedia programs run into problems when file and folder names contain spaces and special characters (#, ?, ", /, @, &, etc.)
 
 To avoid these problems, only use the following characters when naming files and folders:
 
