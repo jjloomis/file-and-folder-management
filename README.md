@@ -1,5 +1,7 @@
 # File and Folder Management
 
+## About
+
 File and folder management instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## Credits
