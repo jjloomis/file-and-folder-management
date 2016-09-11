@@ -1,4 +1,4 @@
-# File and folder naming conventions
+# File and Folder Naming Conventions
 
 Occasionally, servers and multimedia programs run into problems when file and folder names contain spaces or special characters \(\#, ?, ", \/, @, &, etc.\)
 
