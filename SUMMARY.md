@@ -6,6 +6,6 @@
 * [Opening Multiple Finder Windows](opening-multiple-finder-windows.md)
 * [Navigating a Folder Tree in Finder](navigating-folder-tree.md)
 * [File and folder Naming Conventions](file-and-folder-naming-conventions.md)
-* [Copying your project folder to a USB drive](copying-project-to-usb.md)
+* [Copying Your Project Folder to a USB Drive](copying-project-to-usb.md)
 * [Glossary](glossary.md)
 
