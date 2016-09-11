@@ -6,7 +6,7 @@ File and Folder Management for [Journalism, Advertising, and Media Studies](http
 
 ## Credits
 
-Written by JJ Loomis
+Written by Jeffrey John Loomis
 
 ## Other formats
 
