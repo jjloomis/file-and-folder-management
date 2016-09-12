@@ -12,6 +12,8 @@ To avoid these problems, only use the following characters when naming files and
 
 `this-is-a-file.WAV`
 
+Note: Don't change file extensions \(.WAV, .docx, .JPG, etc\). 
+
 ## Example folder name
 
 `folder-name`
