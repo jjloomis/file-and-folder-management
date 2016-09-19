@@ -6,11 +6,11 @@ File and Folder Management for [Journalism, Advertising, and Media Studies](http
 
 ## Credits
 
-Written by Jeffrey John Loomis
+Written by JJ Loomis
 
 ## Other formats
 
-PDF, Mobi, and ePub versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/file-and-folder-management/details).
+PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/file-and-folder-management/details).
 
 ## GitHub
 
