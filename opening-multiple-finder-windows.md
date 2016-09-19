@@ -1,4 +1,4 @@
-# Opening Multiple Finder Windows
+# Opening multiple Finder windows
 
 To copy a the content of one folder into another folder, you’ll need to open multiple Finder windows.
 
