@@ -1,6 +1,6 @@
 # Connecting to your class folder in a Campus Computer Lab (CCL)
 
-Campus Computer Lab (CCL) Macs do not have the Class_Folder icon on the Desktop. You’ll need to manually connect to your class folder. 
+[Campus Computer Lab (CCL)](https://uwm.edu/technology/ccls/) Macs do not have the Class_Folder icon on the Desktop. You’ll need to manually connect to your class folder. 
 
 1. On a Mac, click the Desktop to enter Finder mode.
 2. Click `Go` on the menu bar and choose `Connect to Server`.
