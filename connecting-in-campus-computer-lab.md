@@ -1,4 +1,4 @@
-# Connecting to your class folder in a Campus Computer Lab
+# Connecting to your class folder in a Campus Computer Lab (CCL)
 
 Campus Computer Lab (CCL) Macs do not have the Class_Folder icon on the Desktop. You’ll need to manually connect to your class folder. 
 
