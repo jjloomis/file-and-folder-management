@@ -7,5 +7,5 @@
 3. In the Server Address field, copy and paste the following string (be sure to copy the entire string): <p><pre><code>smb://ufiles.ad.uwm.edu/UWM/LS/Courses/JAMS</code></pre></p>
 4. Click `Connect`. The JAMS drive will appear on the Desktop. 
 5. Double-click the JAMS drive on the Desktop. The JAMS drive will open in a Finder window. 
-6. Double-click your ourse number folder.
+6. Double-click your course number folder.
 7. In the course number folder, your class folder will appear in this format: Lastname-Firstname. Double-click your class folder to open it in a Finder window.
