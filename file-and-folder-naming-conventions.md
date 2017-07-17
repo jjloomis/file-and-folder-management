@@ -1,4 +1,4 @@
-# File and folder naming conventions
+# File and Folder Naming Conventions
 
 Occasionally, servers and multimedia programs run into problems when file and folder names contain spaces or special characters \(\#, ?, ", \/, @, &, etc.\)
 
@@ -12,7 +12,7 @@ To avoid these problems, only use the following characters when naming files and
 
 `this-is-a-file.WAV`
 
-Note: Don't change file extensions \(.WAV, .docx, .JPG, etc\). 
+Note: Don't change file extensions \(.WAV, .docx, .JPG, etc\).
 
 ## Example folder name
 
