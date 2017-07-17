@@ -1,4 +1,4 @@
-# Copying your project folder to a USB drive
+# Copying Your Project Folder to a USB Drive
 
 To save a copy of your multimedia project, you’ll need to copy your entire project folder to a USB drive or a Mac-formatted external hard drive. Note: Google Drive, Dropbox, OneDrive, etc. will not work because cloud-based storage services cannot appear as connected drives on JAMS Lab or Campus Computer Lab Macs.
 
