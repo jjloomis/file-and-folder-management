@@ -1,6 +1,6 @@
-# Navigating a folder tree in Finder
+# Navigating a Folder Tree in Finder
 
-Think of a folder tree as an upside down tree. The starting point of a drive (like a USB drive or the JAMS drive) is the root. To get to a specific folder on a drive, you may need to open a folder and then open another folder (and so on.) This process is called drilling down in a folder tree. 
+Think of a folder tree as an upside down tree. The starting point of a drive (like a USB drive or the JAMS drive) is the root. To get to a specific folder in a drive, you may need to open a folder and then open another folder (and so on.) This process is called "drilling down" in a folder tree. 
 
 To go back up in the folder tree, you can use the `back` button in a Finder window.
 
