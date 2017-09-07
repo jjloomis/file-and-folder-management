@@ -14,6 +14,6 @@
 1. Click the Desktop to enter Finder mode.
 2. Click **Go** on the menu bar and choose **Connect to Server**.
 3. In the Server Address field, copy and paste the following string (be sure to copy the entire string): <p><pre><code>smb://ufiles.ad.uwm.edu/UWM/LS/Courses/JAMS</code></pre></p>
-4. Click **Connect** in the Connect to Server box. 
+4. Click **Connect**.
 5. A dialog box will appear. Click **Connect**. The JAMS drive will appear on your Desktop.
 
